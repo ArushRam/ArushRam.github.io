@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Arush Ramteke, a third-year Computer Science student at UCLA, also minorining in Bioinformatics! I'm really interested in Machine Learning and have been involved in optimisation algorithm research for few months.
+Hi! I'm Arush Ramteke, a third-year Computer Science student at UCLA, also minorining in Bioinformatics! I'm passionate about Machine Learning and have been involved in optimization algorithm research, developing accelerated second-order optimizers.
