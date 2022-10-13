@@ -18,21 +18,21 @@ Education
 
 Work experience
 ---------------
-* May 2022 - Present: Student Researcher, Bouchard Lab UCLA
+* Student Researcher, Bouchard Lab UCLA _(May 2022 - Present)_
     * Implemented Gauss-Newton and Levenberg-Marquardt second-order optimization algorithms in TensorFlow to use in explainable AI models for landslide prediction.
     * Trained a 2-stage neural network aggregating multiple ResNets on the MSTAR radar image dataset with all inbuilt PyTorch optimizers and achieved accuracies exceeding 98%, matching literature.
     * Automated model tracking by writing scripts to parse hundreds of cluster job log files for model information, hyperparameters and performance measures and store results in csv files.
     * Supervisor: Prof. Louis Bouchard
 
-* April 2021 - Present: Flight Software Engineer, Unmanned Aerial Systems at UCLA
+* Flight Software Engineer, Unmanned Aerial Systems at UCLA _(April 2022 - Present)_
     * Led development on "Ground Station" dashboard displaying live telemetry and map position from a remote drone and ground vehicle for AUVSI SUAS inter-collegiate unmanned drone competition.
     * Presently researching and implementing motion planning algorithms for fixed-wing aircraft in next iteration of SUAS competition.
 
-* Oct 2021 - Aug 2022: Frontend Developer at ACM Teach LA
+* Frontend Developer at ACM Teach LA _(October 2021 - August 2022)_
     * Produced several tutorial pages and ‘Terminal’ React component simulating Linux CLI for learning lab used to train ~40 ACM Cyber members and event participants in Linux fundamentals annually.
     * Designed and made Cartesian-coordinate exercises replicating Turtle movement for Teach LA’s Introduction to Python curriculum taught at a series of local schools.
 
-* Apr 2019 - Aug 2019: Student Researcher at Pioneer Academics
+* Student Researcher at Pioneer Academics _(April 2019 - August 2019)_
     * Studied materials theory pertaining to strength, fracture mechanics, thermodynamics and quantum mechanics.
     * Learnt molecular dynamics simulator packages LAMMPS and OVITO and ran atomistic simulations for various Aluminum alloys with Copper and Magnesium.
     * Analyzed simulation data using Python and materials theory to evaluate tensile strength-fracture toughness tradeoff of Aluminum.
