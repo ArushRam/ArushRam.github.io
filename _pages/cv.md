@@ -36,7 +36,7 @@ Work experience
     * Studied materials theory pertaining to strength, fracture mechanics, thermodynamics and quantum mechanics.
     * Learnt molecular dynamics simulator packages LAMMPS and OVITO and ran atomistic simulations for various Aluminum alloys with Copper and Magnesium.
     * Analyzed simulation data using Python and materials theory to evaluate tensile strength-fracture toughness tradeoff of Aluminum.
-    * Conveyed findings in a [research paper](https://arushram.github.io/PioneerAcademicsPaper.pdf) graded 97/100 by Prof. Frank Peiris of Kenyon College and shortlisted for publication in the Pioneer Research Journal.
+    * Conveyed findings in a [research paper](https://arushram.github.io/files/PioneerAcademicsPaper.pdf) graded 97/100 by Prof. Frank Peiris of Kenyon College and shortlisted for publication in the Pioneer Research Journal.
 
 
   
