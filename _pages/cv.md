@@ -22,6 +22,7 @@ Work experience
     * Implemented Gauss-Newton and Levenberg-Marquardt second-order optimization algorithms in TensorFlow to use in explainable AI models for landslide prediction.
     * Trained a 2-stage neural network aggregating multiple ResNets on the MSTAR radar image dataset with all inbuilt PyTorch optimizers and achieved accuracies exceeding 98%, matching literature.
     * Automated model tracking by writing scripts to parse hundreds of cluster job log files for model information, hyperparameters and performance measures and store results in csv files.
+    * Working on fast matrix inversion for second order optimization algorithms.
     * Supervisor: Prof. Louis Bouchard
 
 * Flight Software Engineer, Unmanned Aerial Systems at UCLA _(April 2022 - Present)_
