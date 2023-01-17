@@ -13,8 +13,8 @@ Education
 ---------
 * B.S. in Computer Science, University of California, 2024 (Expected)
     * _Minor:_ Bioinformatics
-    * _GPA:_ 3.93
-    * _Honors:_ Dean's Honor List (Winter '21 - Fall '22), Shivakumar Endowed Scholarship in Computer Science, Upsilon Pi Epsilon, Tau Beta Pi
+    * _GPA:_ 3.935
+    * _Honors:_ Dean's Honor List (Winter '21 - Winter '23), Shivakumar Endowed Scholarship in Computer Science, Upsilon Pi Epsilon, Tau Beta Pi
 
 Work experience
 ---------------
