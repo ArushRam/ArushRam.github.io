@@ -44,9 +44,10 @@ Work experience
 Skills
 ------
 * __Programming Languages__: Python, C++, C, JavaScript, TypeScript, Lisp, Shell, Ruby, SQL
-* __Machine Learning & Data__: PyTorch, TensorFlow, Keras, Weights & Biases, Scikit-Learn, Matplotlib, Seaborn
-* __Web Development__: React, Node, Express, MongoDB, Mongoose, Jekyll, WebGL
-* __Software__: Git, UNIX, Linux, LaTeX
+* __Machine Learning__: PyTorch, TensorFlow, Keras, CUDA, Scikit-Learn, Matplotlib, Seaborn
+* __Data__: PostgreSQL, Apache Spark, MongoDB, MapReduce
+* __Web Development__: React, Node, Express, Mongoose, Jekyll, WebGL
+* __Software__: Git, Docker, Linux, LaTeX
 
 <!-- Publications
 ======
