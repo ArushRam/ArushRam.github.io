@@ -19,12 +19,12 @@ Education
 Work experience
 ---------------
 * Machine Learning Research Intern, Rahmani Lab UCLA _(May 2023 - Present)_
-  * First-authoring new contrastive optimization algorithm for improved generalization on out-of-distribution data.
-  * Implemented several variants of algorithm in TensorFlow available for use with any gradient-based model.
-  * Conducted several experiments with various gradient filtering criteria, aggregation methods and developed adaptive learning rate methods based on cosine similarities and subset sizes for improved generalization performance.
-  * Created and visualized several diagnostic metrics including Jaccard indices for monitoring subset stability and graph-visualizations of final gradient coefficients across domains to identify intrinsic biases in dataset across multiple points in loss landscape.
-  * Achieved 5% improvement on median AUC performance on CONVERGE voice-recording datasets and matched benchmarks on Camelyon-17-WILDS.
-  * Supervisor: [Prof. Elior Rahmani](https://eliorrahmani.com/home.html)
+    * First-authoring new contrastive optimization algorithm for improved generalization on out-of-distribution data.
+    * Implemented several variants of algorithm in TensorFlow available for use with any gradient-based model.
+    * Conducted several experiments with various gradient filtering criteria, aggregation methods and developed adaptive learning rate methods based on cosine similarities and subset sizes for improved generalization performance.
+    * Created and visualized several diagnostic metrics including Jaccard indices for monitoring subset stability and graph-visualizations of final gradient coefficients across domains to identify intrinsic biases in dataset across multiple points in loss landscape.
+    * Achieved 5% improvement on median AUC performance on CONVERGE voice-recording datasets and matched benchmarks on Camelyon-17-WILDS.
+    * Supervisor: [Prof. Elior Rahmani](https://eliorrahmani.com/home.html)
 
 * Machine Learning Research Intern, Bouchard Lab UCLA _(May 2022 - Present)_
     * Implemented Gauss-Newton and Levenberg-Marquardt second-order optimization algorithms in TensorFlow to use in explainable AI models for landslide prediction.
