@@ -31,7 +31,7 @@ Work experience
     * Designed accelerated Levenberg-Marquardt method leveraging transformed-space inversion achieving over 4% test accuracy improvement over Adam on CIFAR-10 with identical architectures.
     * Created stochastic Gram Gauss-Newton matrix construction method achieving 3x per-iteration speedup as well as improved generalization error over exact Levenberg-Marquardt method.
     * Conducted extensive benchmarking on performance of several first-order and second-order optimizers on MSTAR and CIFAR datasets.
-    * Applying inversion algorithm to natural gradient and antenna design with Method of Moments problems.
+    * Applying inversion algorithm to natural gradient and antenna design with method of moments problems.
     * Supervisor: [Prof. Louis Bouchard](https://www.chemistry.ucla.edu/directory/bouchard-louis-s/)
 
 * Flight Software Engineer, Unmanned Aerial Systems at UCLA _(April 2022 - April 2023)_
