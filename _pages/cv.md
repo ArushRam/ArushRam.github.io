@@ -27,15 +27,16 @@ Work experience
     * Supervisor: [Prof. Elior Rahmani](https://eliorrahmani.com/home.html)
 
 * Machine Learning Research Intern, Bouchard Lab UCLA _(May 2022 - Present)_
-    * Implemented Gauss-Newton and Levenberg-Marquardt second-order optimization algorithms in TensorFlow to use in explainable AI models for landslide prediction.
-    * Trained a 2-stage neural network aggregating multiple ResNets on the MSTAR radar image dataset with all inbuilt PyTorch optimizers and achieved accuracies exceeding 98%, matching literature.
-    * Automated model tracking by writing scripts to parse hundreds of cluster job log files for model information, hyperparameters and performance measures and store results in csv files.
-    * Working on fast matrix inversion for second order optimization algorithms.
-    * Supervisor: Prof. Louis Bouchard
+    * Developed parallelized Jacobian backpropagation library achieving > 30x speedup over PyTorch and TensorFlow on ResNet-50 backpropagation on NVIDIA T4 GPUs.
+    * Designed accelerated Levenberg-Marquardt method leveraging transformed-space inversion achieving over 4% test accuracy improvement over Adam on CIFAR-10 with identical architectures.
+    * Created stochastic Gram Gauss-Newton matrix construction method achieving 3x per-iteration speedup as well as improved generalization error over exact Levenberg-Marquardt method.
+    * Conducted extensive benchmarking on performance of several first-order and second-order optimizers on MSTAR and CIFAR datasets.
+    * Applying inversion algorithm to natural gradient and antenna design with Method of Moments problems.
+    * Supervisor: [Prof. Louis Bouchard](https://www.chemistry.ucla.edu/directory/bouchard-louis-s/)
 
 * Flight Software Engineer, Unmanned Aerial Systems at UCLA _(April 2022 - April 2023)_
     * Led development on "Ground Station" dashboard displaying live telemetry and map position from a remote drone and ground vehicle for AUVSI SUAS inter-collegiate unmanned drone competition.
-    * Researched and implemented motion planning algorithm for fixed-wing aircraft for AUVSI-SUAS Competition 2023.
+    * Implemented motion planning under curvature constraint algorithms for fixed-wing aircraft for AUVSI-SUAS Competition 2023.
     * Wrote automated camera scripts to capture and process images for classification as part of competition objectives.
 
 * Frontend Developer at ACM Teach LA _(October 2021 - August 2022)_
@@ -58,11 +59,12 @@ Activities
   
 Skills
 ------
-* __Programming Languages__: Python, C++, C, JavaScript, TypeScript, Lisp, Shell, Ruby, SQL
+* __Programming Languages__: Python, C++, C, JavaScript, TypeScript, Lisp, Shell, Ruby, SQL, Haskell, Prolog
 * __Machine Learning__: PyTorch, TensorFlow, JAX, CUDA, Scikit-Learn, Matplotlib, Seaborn
 * __Data__: PostgreSQL, Apache Spark, MongoDB, MapReduce
 * __Web Development__: React, Node, Express, Mongoose, Jekyll, WebGL
 * __Software__: Git, Docker, Linux, LaTeX
+* __Cloud__: AWS
 
 <!-- Publications
 ======
