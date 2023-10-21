@@ -27,7 +27,7 @@ Work experience
     * Supervisor: [Prof. Elior Rahmani](https://eliorrahmani.com/home.html)
 
 * Machine Learning Research Intern, Bouchard Lab UCLA _(May 2022 - Present)_
-    * Developed parallelized Jacobian backpropagation library achieving > 30x speedup over PyTorch and TensorFlow on ResNet-50 backpropagation on NVIDIA T4 GPUs.
+    * Developed parallelized Jacobian backpropagation library achieving > 30x speedup over PyTorch and TensorFlow on ResNet-50 Jacobian backpropagation on NVIDIA T4 GPUs.
     * Designed accelerated Levenberg-Marquardt method leveraging transformed-space inversion achieving over 4% test accuracy improvement over Adam on CIFAR-10 with identical architectures.
     * Created stochastic Gram Gauss-Newton matrix construction method achieving 3x per-iteration speedup as well as improved generalization error over exact Levenberg-Marquardt method.
     * Conducted extensive benchmarking on performance of several first-order and second-order optimizers on MSTAR and CIFAR datasets.
